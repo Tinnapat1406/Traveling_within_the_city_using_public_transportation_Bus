@@ -29,10 +29,10 @@ Multiple regression models were implemented and compared, including Linear Regre
 
 ## **Result**
 
-###RandomForest
+### RandomForest
 <img width="860" height="515" alt="Screenshot 2026-01-19 212436" src="https://github.com/user-attachments/assets/78ddcdaa-3a30-4c92-a656-2947c396c13a" />
 
 
-###Ridge
+### Ridge
 <img width="860" height="515" alt="Screenshot 2026-01-19 212436" src="https://github.com/user-attachments/assets/8582a8e5-4d32-4c57-b2bd-df19a253e501" />
 
